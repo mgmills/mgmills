@@ -71,7 +71,7 @@ I build systems that surface problems before they become incidents — and autom
 
 ## Let's Connect
 
-📧 [LinkedIn](https://linkedin.com/in/mikemills) &nbsp;|&nbsp; 🌐 Fully Remote &nbsp;|&nbsp; 📍 Redondo Beach, CA
+📧 [LinkedIn](https://www.linkedin.com/in/mike-mills-77981512) &nbsp;|&nbsp; 🌐 Fully Remote &nbsp;|&nbsp; 📍 Redondo Beach, CA
 
 > *Open to DevOps, Infrastructure, Cloud, and Platform Engineering roles — fully remote.*
 
